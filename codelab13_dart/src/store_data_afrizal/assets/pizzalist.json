@@ -1,0 +1,27 @@
+[ 
+    { 
+      "id": 1, 
+      "pizzaName": "Pepperoni", 
+      "description": "Pizza with... obviously pepperoni.",
+      "price": 8.75, 
+      "imageUrl": "images/pepperoni.jpeg" 
+    }, 
+    { 
+      "id": 2, 
+      "pizzaName": "Sinful Abomination", 
+      "description": "An abomination of pineapple that doesn't even belong to any kind of pizza. A manifestation of sin. The forbidden fruit of all pizzakind. The sin of origin which God will not even forgive. A devil's fruit, disguised as a cuisine.",
+      "price": 99999.99, 
+      "imageUrl": "images/abomination.jpeg"  
+    }, 
+    { 
+      "id": 3, 
+      "pizzaName": "Meaty", 
+      "description": "Pizza with a whole truck of meat laid on it.",
+      "price": 9.50, 
+      "imageUrl": "images/meatlover.jpg"  
+    },
+    {
+      "id": "what", 
+      "pizzaName": "A Void Pizza"
+    }
+]
